@@ -204,13 +204,12 @@ button:hover {
 @media (max-width: 500px) {
 
     body {
-       min-width: 480px ;
+       min-width: 500px ;
     }
     
     .container {
         overflow: hidden;
         position: relative;
-        width: 480px;
     }
 
     header div {
@@ -328,7 +327,7 @@ button:hover {
         position: relative;
         top: 0;
         left: 0;
-        width: 480px;   
+        width: 500px;   
     }
 
     main .left {
